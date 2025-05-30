@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Harizsoumia
-- 👀 I’m interested in Software Devalopement
+- 👀 I’m interested in Software & AI
 - 🌱 I’m currently learning Java python and c
-- 💞️ I’m looking to collaborate on an active club
-- 📫 How to reach me u can contact me in telegram my phone number is:0664438371
+- 💞️ I’m looking to collaborate for new exeperiences
+- 📫 How to reach me u can contact me in instagram : sou-souyaya
 - 😄 Pronouns: ...
 - ⚡ Fun fact: THE ENGINEER IS THE EVERY THINGS
 
