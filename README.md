@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Harizsoumia
 - 👀 I’m interested in Software & AI
-- 🌱 I’m currently learning Java python and c
+- 🌱 I’m currently learning Java , python , c and java script
 - 💞️ I’m looking to collaborate for new exeperiences
 - 📫 How to reach me u can contact me in instagram : sou-souyaya
-- 😄 Pronouns: ...
 - ⚡ Fun fact: THE ENGINEER IS THE EVERY THINGS
 
 <!---
