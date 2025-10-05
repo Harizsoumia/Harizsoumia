@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @Harizsoumia
+- 👋 Hi, I’m Soumia Hariz
 - 👀 I’m interested in Software & AI
-- 🌱 I’m currently learning Java , python , c and java script
+- 🌱 I’m currently learning Java , python , c and java script 
 - 💞️ I’m looking to collaborate for new exeperiences
-- 📫 How to reach me u can contact me in instagram : sou-souyaya
-- ⚡ Fun fact: THE ENGINEER IS THE EVERY THINGS
+- 📫 reach me with my email : soumiahariz20@gmail.com
 
-<!---
-Harizsoumia/Harizsoumia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
