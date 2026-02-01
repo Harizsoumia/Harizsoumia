@@ -2,6 +2,5 @@
 - 👀 I’m interested in Software & AI
 - 🌱 I’m currently learning Java , python , c and java script 
 - 💞️ I’m looking to collaborate for new experiences
-- 📫 reach me with my email : soumiahariz20@gmail.com
-
+- 📫 reach me with my email : soumiahariz20@gmail.com  & my linkedIn : Soumia Hariz
 
